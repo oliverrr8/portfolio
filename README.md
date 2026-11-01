@@ -10,7 +10,7 @@
 
 I’m a first-year T Level student in Digital Support and Security at HOW College who has a strong interest in technology.
 
-College is where I’m building the technical depth (networking, security, scripting and professional practice) to take that work further. [Read my full About me page](pages/about-me.md).
+College is where I’m building the technical depth (networking, security, scripting and professional practice) to take that work further. [Read my full About me page](about-me.md).
 
 ---
 
