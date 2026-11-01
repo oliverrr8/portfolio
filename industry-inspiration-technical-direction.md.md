@@ -1,6 +1,6 @@
 # Week 5: Industry inspiration and my technical direction
 
-[← Home](../README.md)
+[← Home](README.md)
 
 ### Careers I an interested in OR Companies That Interest Me
 My main goal is to become an IT Network Engineer. The main companies that I have interest in are Cisco, OpenAI, Anthropic and Higgsfield because Cisco specifically has been around for a long time and been an industry leader when it comes to networking however all the other have had rapid growth and companies such as OpenAI and Anthropic they hve helped develop fair bits of technology.
