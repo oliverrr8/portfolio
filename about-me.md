@@ -1,6 +1,6 @@
 # Week 1: About Me
 
-[← Home](../README.md)
+[← Home](README.md)
 
 ---
 
