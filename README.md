@@ -1,6 +1,6 @@
 # Hello, I’m Oliver
 
-**T Level student in Digital Support and Security at HOW College** 
+**T Level student in Digital Support and Security at HoW College** 
 
 > A weekly record of what I’m learning, how I solve problems and where I’m heading next.
 
