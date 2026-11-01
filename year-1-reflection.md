@@ -1,6 +1,6 @@
 # Week 6: Year 1 reflection
 
-[← Home](../README.md)
+[← Home](README.md)
 
 ### Looking Back So Far
 I seem to be doing the best at hands-on work which means ESP (Employer Set Project) is where I feel I am doing my best with doing things such as upgrading RAM, storage anad also installing various Windows' operating systems such as Windows 10 and Windows Server 2019 onto the same workstation at the a different time using tools such as Ventoy to be able to do this. I also feel fairly confident in my Core 1 and 2 work as it is similar to what I was doing during my GCSEs.
