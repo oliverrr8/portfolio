@@ -1,6 +1,6 @@
 # Week 4: Security, ethics and professional responsibility
 
-[← Home](../README.md)
+[← Home](README.md)
 
 ### Case Study: NHS Cyberattack
 A big example of why security matters a lot is the NHS Cyberattack which happened in 2025. The NHS has a lot of confidential data that they cannot afford to lose since it includes patient records, their birth date, and any private data about them: name, address and national insurance numbers.
