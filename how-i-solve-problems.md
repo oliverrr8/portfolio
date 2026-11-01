@@ -1,6 +1,6 @@
 # Week 2: How I solve problems
 
-[← Home](../README.md)
+[← Home](README.md)
 
 ## The Challenge
 During my ESP lesson with Pete, We ran into a weird network issue where no one could ping their workstation at all, yet we were still able to Remote Desktop (RDC) straight into it without any problems.
