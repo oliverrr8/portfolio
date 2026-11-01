@@ -1,6 +1,6 @@
 # Week 3: My development environment
 
-[← Home](../README.md)
+[← Home](README.md)
 
 ### Tools & Systems I Use
 To complete my Core 1 & Core 2 and ESP Work, I depend on a few main tools:
