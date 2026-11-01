@@ -18,12 +18,12 @@ College is where I’m building the technical depth (networking, security, scrip
 
 | Page | What it covers |
 |------|----------------|
-| [About me](pages/about-me.md) | Who I am, my interests, strengths, areas for development, aspirations and goals |
-| [How I solve problems](pages/how-i-solve-problems.md) | A real challenge and how I tackled it |
-| [My development environment](pages/my-development-environment.md) | The tools I use and why |
-| [Security, ethics and professional responsibility](pages/security-ethics-professional-responsibility.md) | Responsible use of technology |
-| [Industry inspiration and my technical direction](pages/industry-inspiration-technical-direction.md) | Where I want to go ||
-| [Year 1 reflection](pages/year-1-reflection.md) | Looking back and planning Year 2 |
+| [About me](about-me.md) | Who I am, my interests, strengths, areas for development, aspirations and goals |
+| [How I solve problems](how-i-solve-problems.md) | A real challenge and how I tackled it |
+| [My development environment](my-development-environment.md) | The tools I use and why |
+| [Security, ethics and professional responsibility](security-ethics-professional-responsibility.md) | Responsible use of technology |
+| [Industry inspiration and my technical direction](industry-inspiration-technical-direction.md) | Where I want to go ||
+| [Year 1 reflection](year-1-reflection.md) | Looking back and planning Year 2 |
 
 ## Get in touch
 
